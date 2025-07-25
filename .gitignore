@@ -1,0 +1,48 @@
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.netbeans/
+*.orig
+
+# Ant build files
+build.xml~ 
+*.class
+*.jar
+*.war
+*.ear
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE specific
+*.iml
+.idea/
+.vscode/
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Maven/Gradle (just in case)
+target/
+.gradle/
+build/
+
+# Generated files
+gen/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
